@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&pause=1200&lines=Hi+👋;+I'm+Rajkumar+Vekaria!;" />
 </h1>
 
-### Computer Science Student | C++ & DSA enthusiast | MySQL | Arch Linux
+### Computer Science Student | C++ & DSA | MySQL | Arch Linux
 
 I love solving algorithmic problems, learning low-level concepts and building strong fundamentals for a career in <b>Software Development</b>.
 
