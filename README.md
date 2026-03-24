@@ -4,8 +4,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+👋;+I'm+Rajkumar+Vekaria!;" />
 </h1>
-
-### Computer Science Student | C++ & DSA | MySQL | Arch Linux
+<h3 align="center">
+<b>CSE @ IIIT Surat'28</b>
+</h3>
+<h4 align="center">
+    C++ & DSA | MySQL | Arch Linux
+</h4>
 
 I love solving algorithmic problems, learning low-level concepts and building strong fundamentals for a career in <b>Software Development</b>.
 
@@ -20,8 +24,9 @@ I love solving algorithmic problems, learning low-level concepts and building st
   </a>
 </p>
 
+<!--
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=RajkumarVekaria&theme=dark&hide_border=false" /><br/>
 </p>
-
+-->
